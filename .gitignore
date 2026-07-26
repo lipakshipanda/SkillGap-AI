@@ -6,7 +6,8 @@ backend/.env
 frontend/.env
 
 # ── Go (backend) ─────────────────────────────────────────
-backend/data/               # BadgerDB embedded database files
+# BadgerDB embedded database files
+backend/data/
 *.exe
 *.exe~
 *.dll
